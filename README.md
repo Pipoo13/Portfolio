@@ -47,6 +47,6 @@ I focus on ensuring software quality through structured test scenarios, automati
 | [replyLegalService.java](https://github.com/Pipoo13/Portfolio/blob/main/replyLegalService.java) |
        
 
-[Certificate from Bupati Pesawaran](https://drive.google.com/file/d/1kCGWrcu77pt2QIjip2TmLMXMx364uQLb/view?usp=sharing)
+**Intern Certificate:** [Certificate from Bupati Pesawaran](https://drive.google.com/file/d/1kCGWrcu77pt2QIjip2TmLMXMx364uQLb/view?usp=sharing)
 
 
